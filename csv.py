@@ -1,4 +1,4 @@
-import csv
+qqqimport csv
 
 # with open('firm1.csv') as file:
 #     r = csv.readline(file)
